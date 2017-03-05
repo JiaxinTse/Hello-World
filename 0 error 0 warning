@@ -1,0 +1,21 @@
+-------------- Clean: Debug in 0304test (compiler: GNU GCC Compiler)---------------
+
+Cleaned "0304test - Debug"
+
+-------------- Build: Debug in 0304test (compiler: GNU GCC Compiler)---------------
+
+mingw32-g++.exe -Wall -fexceptions -g -std=c++11  -c D:\CodeBlocks\Myprojects\0304test\main.cpp -o obj\Debug\main.o
+mingw32-g++.exe  -o bin\Debug\0304test.exe obj\Debug\main.o   
+Output file is bin\Debug\0304test.exe with size 1.05 MB
+Process terminated with status 0 (0 minute(s), 2 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 2 second(s))
+
+
+
+
+
+
+
+
+散了吧，这里啥都没有
+哈哈哈，我就是来装逼的
